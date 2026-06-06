@@ -1,0 +1,23 @@
+body { margin: 0; font-family: system-ui, sans-serif; background: #f8fafc; }
+
+table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+th, td { padding: 16px; text-align: left; border-bottom: 1px solid #e2e8f0; color: #334155; }
+th { color: #64748b; font-weight: 600; }
+tbody tr { transition: 0.2s; cursor: pointer; }
+tbody tr:hover { background-color: #f1f5f9; }
+
+.table-section { background: white; padding: 24px; border-radius: 12px; margin-bottom: 20px; }
+
+.status { padding: 6px 12px; border-radius: 6px; font-size: 13px; font-weight: 500; display: inline-block; min-width: 95px; text-align: center; }
+
+.sidebar-item { display: flex; align-items: center; gap: 15px; padding: 12px 18px; color: #9ca3af; cursor: pointer; transition: 0.2s; border-radius: 10px; }
+.sidebar-item:hover { background: rgba(255,255,255,0.1); color: white; }
+
+table tbody tr {
+  transition: background-color 0.2s ease; 
+}
+
+table tbody tr:hover {
+  background-color: #f1f5f9; 
+  cursor: pointer; 
+}

@@ -1,0 +1,36 @@
+:root {
+  --bg: #f8fafc;
+  --card-bg: #ffffff;
+  --text: #475569;
+  --text-h: #0f172a;
+  --border: #e2e8f0;
+}
+.dark {
+  --bg: #16171d;
+  --card-bg: #1f2937;
+  --text: #9ca3af;
+  --text-h: #f3f4f6;
+  --border: #374151;
+}
+.dark input {
+  background: #111827;
+  color: white;
+  border: 1px solid #f6faff;
+}
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  margin: 0;
+  font-family: sans-serif;
+}
+.table-section {
+  transition: 0.3s;
+}
+.dark table td {
+  color: #e5e7eb;
+    color: var(--text); 
+}
+.sidebar-item.active {
+  border-left: 4px solid #3b82f6;
+  background: rgba(59, 130, 246, 0.15);
+}

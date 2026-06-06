@@ -1,0 +1,28 @@
+.stat-card {
+  background-color: var(--card-bg);
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.stat-card-title {
+  font-size: 14px;
+  color: var(--text);
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.stat-card-value {
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--text-h);
+  margin: 0;
+}
+
+.stat-card:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+  transform: translateY(-6px);
+}
