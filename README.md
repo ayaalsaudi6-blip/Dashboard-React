@@ -20,5 +20,15 @@ A modern and responsive admin dashboard built with React. The project demonstrat
 - Clean and Professional UI Design
 
 ## Preview
-![Dashboard Preview](images/Dashboard-React.png)
-![Dashboard Preview](images/Dashboard-Reactt.png)
+![Dashboard Preview](images/SR1.png)
+![Dashboard Preview](images/SR2.png)
+![Dashboard Preview](images/SR3.png)
+![Dashboard Preview](images/SR4.png)
+![Dashboard Preview](images/SR5.png)
+![Dashboard Preview](images/SR6.png)
+
+
+
+
+
+
