@@ -10,5 +10,4 @@ function StatCard({ title, value, borderColor, }) {
     </div>
   );
 }
-
 export default StatCard;

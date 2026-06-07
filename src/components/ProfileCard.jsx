@@ -24,5 +24,4 @@ backgroundColor: darkMode ? "#1f2937" : "#fff",
     </section>
   );
 }
-
 export default ProfileCard;
