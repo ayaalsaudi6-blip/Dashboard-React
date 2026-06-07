@@ -5,3 +5,8 @@ export default defineConfig({
   plugins: [react()],
   base: '/Dashboard-React/'
 })
+export default defineConfig({
+  plugins: [react()],
+  base: '/Dashboard-React/', 
+})
+
